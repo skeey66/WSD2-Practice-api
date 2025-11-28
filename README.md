@@ -142,8 +142,8 @@ Body (JSON):
 
 ## 📚 사용 기술
 
-- **Java 17**
-- **Spring Boot 3.x**
+- **Java 25**
+- **Spring Boot 4.0.0**
 - **Gradle**
 - **Postman (API 테스트)**
 
