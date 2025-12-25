@@ -27,6 +27,7 @@ src/main/java/kr/ac/jbnu/ksh/wsdteaching
  │           ├── UpdateUserRequest.java
  │           └── LoginRequest.java
  └── WsdTeachingApplication.java
+
 ```
 
 > 📌 **핵심 특징**  
